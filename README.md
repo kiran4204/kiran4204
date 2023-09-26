@@ -1,10 +1,10 @@
-### Hi there 👋
-
-<!--
-**kiran4204/kiran4204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi There iam Banka Venkat Kiran 👦
+- 🚀I'm on a The Journey in Java.
+- ⚡I'm Intersted in Web Technology and Python.
+- 🤔I'm looking to collaborate on Java & DSA.
+- 🎮Likes Games.
+- 👨‍💻The first programming language was called FORTRAN.
+   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
