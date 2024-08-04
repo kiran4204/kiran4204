@@ -7,6 +7,5 @@
 - 📫 How to reach me: bvk158@gmail.com
 - 👨‍💻 The first programming language was called FORTRAN.
    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiran4204&repo=github-readme-stats)](https://github.com/kiran4204/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiran4204)](https://github.com/kiran4204/github-readme-stats)
+[![Kiran GitHub stats](https://github-readme-stats.vercel.app/api?username=kiran4204)](https://github.com/kiran4204/github-readme-stats)
