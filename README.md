@@ -3,12 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kiran4204&label=Profile%20views&color=green&style=flat" alt="kiran4204" />
 </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kiran4204&label=Profile%20views&color=purple&style=flat" alt="kiran4204" />
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kiran4204&label=Profile%20views&color=red&style=flat" alt="kiran4204" />
-</p>
+
 
 - 🚀 I'm on a quest to level up my Java skills.
 - ⚡ I'm Intersted in Web Technology and Python.
