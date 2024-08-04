@@ -8,3 +8,4 @@
 - 👨‍💻 The first programming language was called FORTRAN.
    
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiran4204&hide=contribs,prs)
