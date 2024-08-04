@@ -1,11 +1,5 @@
 <h3>👋 Hi there! I'm Kiran! 😄 </h3> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran4204&label=Profile%20views&color=0e75b6&style=flat" alt="kiran4204" /> </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kiran4204&label=Profile%20views&color=orange&style=flat" alt="kiran4204" />
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kiran4204&label=Profile%20views&color=pink&style=flat" alt="kiran4204" />
-</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kiran4204&label=Profile%20views&color=green&style=flat" alt="kiran4204" />
 </p>
