@@ -1,5 +1,5 @@
-<h1>👋 Hi there! I'm Kiran! 😄</h1>
-###
+👋 Hi there! I'm Kiran! 😄
+
 - 🚀 I'm on a quest to level up my Java skills.
 - ⚡ I'm Intersted in Web Technology and Python.
 - 🤔 I'm looking to collaborate on Java & DSA.
