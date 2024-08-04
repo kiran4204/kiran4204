@@ -1,4 +1,5 @@
-👋 Hi there! I'm Kiran! 😄
+###👋 Hi there! I'm Kiran! 😄
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran4204&label=Profile%20views&color=0e75b6&style=flat" alt="kiran4204" /> </p>
 
 - 🚀 I'm on a quest to level up my Java skills.
 - ⚡ I'm Intersted in Web Technology and Python.
