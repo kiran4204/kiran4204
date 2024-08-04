@@ -1,5 +1,5 @@
 ###👋 Hi there! I'm Kiran! 😄
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran4204&label=Profile%20views&color=0e75b6&style=flat" alt="kiran4204" /> </p>
+
 
 - 🚀 I'm on a quest to level up my Java skills.
 - ⚡ I'm Intersted in Web Technology and Python.
@@ -8,7 +8,9 @@
 - 💬 Ask me about Ships 🚢.
 - 📫 How to reach me: bvk158@gmail.com
 - 👨‍💻 The first programming language was called FORTRAN.
-   
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran4204&label=Profile%20views&color=0e75b6&style=curve" alt="kiran4204" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/b-venkat-kiran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/b-venkat-kiran/" height="30" width="40" /></a>
