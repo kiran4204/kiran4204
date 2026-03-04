@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=kiran4204&label=Profile%20views&color=blue&style=flat" alt="kiran4204" />
 </p>
 
-- 🚀 I'm on a quest to level up my Java skills.
+- 🚀 I'm on a quest to level up my Python skills.
 - ⚡ I'm Intersted in Web Technology and Python.
 - 🤔 I'm looking to collaborate on Java & DSA.
 - 🎮 I Like Games.
